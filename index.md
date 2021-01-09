@@ -42,4 +42,4 @@ From these my `favorites` were:
 
 ### CSE 110 Lab
 
-I'm currently working on the first lab for CSE 110. The file to edit the title of this page can be found [here](./_config.yml)
+I'm currently working on the first lab for CSE 110. The file to edit the title of this page can be found [here](./_config.yml).
