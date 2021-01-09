@@ -6,6 +6,8 @@ Our school motto:
 
 > **Fiat lux** or _Let there be light_
 
+I spent a lot of time at Geisel while studying at UCSD. ![Image](https://upload.wikimedia.org/wikipedia/commons/4/44/Geisel_Library%2C_UCSD.jpg)
+
 ### [Classes ](https://www.ucsd.edu/catalog/courses/CSE.html)
 
 I've taken a variety of classes as a computer engineer, in both Electrical Engineering and Computer Science.
@@ -22,30 +24,19 @@ CSE 30 - Computer Organization and Systems Programming
 ECE 161A - Introduction to Digital Signal Processing
 ```
 
-From these my favorites were: 
+From these my `favorites` were: 
 - [x] CSE 12
 - [x] ECE 101
 - [ ] CSE 30
 - [ ] ECE 161A
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-~~Strikethrough text~~ **Text with _italics_ inside**
-
-[Link](url) and ![Image](src)
-```
+**Some _other classes_ I've taken:**
+1. CSE 20
+   -  Discrete Mathematics
+      - Sophomore year
+2. CSE 100
+   - Advanced Data Structures
+      - Junior year
 
 ### CSE 110 Lab
 
