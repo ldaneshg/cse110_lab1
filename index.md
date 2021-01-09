@@ -1,10 +1,10 @@
 ## Welcome to Lara Daneshgaran's Homepage
 
-I am a senior undergraduate student at [University of California San Diego](https://ucsd.edu) studying `computer engineering`.
+I am a senior undergraduate student at [University of California San Diego](https://ucsd.edu) studying ~~electrical~~ `computer engineering`.
 
 Our school motto: 
 
-> Fiat lux Let there be light
+> **Fiat lux** or _Let there be light_
 
 ### [Classes ](https://www.ucsd.edu/catalog/courses/CSE.html)
 
@@ -21,6 +21,12 @@ CSE 30 - Computer Organization and Systems Programming
 
 ECE 161A - Introduction to Digital Signal Processing
 ```
+
+From these my favorites were: 
+- [x] CSE 12
+- [x] ECE 101
+- [] CSE 30
+- [] ECE 161A
 
 ```markdown
 Syntax highlighted code block
@@ -41,4 +47,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Jekyll Themes
+### CSE 110 Lab
+
+I'm currently working on the first lab for CSE 110. The README can be found [here](./README.md)
