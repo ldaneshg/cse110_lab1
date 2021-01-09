@@ -6,7 +6,7 @@ Our school motto:
 
 > Fiat lux Let there be light
 
-### [Classes ](ucsd.edu)
+[### Classes ](https://www.ucsd.edu/catalog/courses/CSE.html)
 
 I've taken a variety of classes as a computer engineer, in both Electrical Engineering and Computer Science.
 
