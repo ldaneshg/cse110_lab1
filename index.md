@@ -1,12 +1,12 @@
 ## Welcome to Lara Daneshgaran's Homepage
 
-I am a senior undergraduate student at [University of California San Diego](https://ucsd.edu).
+I am a senior undergraduate student at [University of California San Diego](https://ucsd.edu) studying `computer engineering`.
 
 Our school motto: 
 
 > Fiat lux Let there be light
 
-### Classes 
+### [Classes ](ucsd.edu)
 
 I've taken a variety of classes as a computer engineer, in both Electrical Engineering and Computer Science.
 
