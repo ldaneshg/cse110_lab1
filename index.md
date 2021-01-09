@@ -25,8 +25,8 @@ ECE 161A - Introduction to Digital Signal Processing
 From these my favorites were: 
 - [x] CSE 12
 - [x] ECE 101
-- [] CSE 30
-- [] ECE 161A
+- [ ] CSE 30
+- [ ] ECE 161A
 
 ```markdown
 Syntax highlighted code block
@@ -49,4 +49,4 @@ Syntax highlighted code block
 
 ### CSE 110 Lab
 
-I'm currently working on the first lab for CSE 110. The README can be found [here](./README.md)
+I'm currently working on the first lab for CSE 110. The file to edit the title of this page can be found [here](./_config.yml)
