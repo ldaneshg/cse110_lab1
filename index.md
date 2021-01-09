@@ -1,12 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Lara Daneshgaran's Homepage
 
-You can use the [editor on GitHub](https://github.com/ldaneshg/cse110_lab1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a senior undergraduate student at [University of California San Diego](https://ucsd.edu).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our school motto: 
 
-### Markdown
+> Fiat lux Let there be light
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Classes 
+
+I've taken a variety of classes as a computer engineer, in both Electrical Engineering and Computer Science.
+
+Some include:
+
+```
+CSE 12 - Basic Data Structures and Object-Oriented Design
+
+ECE 101 - Linear Systems Fundamentals
+
+CSE 30 - Computer Organization and Systems Programming
+
+ECE 161A - Introduction to Digital Signal Processing
+```
 
 ```markdown
 Syntax highlighted code block
@@ -22,16 +36,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+~~Strikethrough text~~ **Text with _italics_ inside**
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ldaneshg/cse110_lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
