@@ -6,7 +6,9 @@ Our school motto:
 
 > **Fiat lux** or _Let there be light_
 
-I spent a lot of time at Geisel while studying at UCSD. ![Image](https://upload.wikimedia.org/wikipedia/commons/4/44/Geisel_Library%2C_UCSD.jpg)
+I spent a lot of time at Geisel while studying at UCSD.
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/4/44/Geisel_Library%2C_UCSD.jpg)
 
 ### [Classes ](https://www.ucsd.edu/catalog/courses/CSE.html)
 
